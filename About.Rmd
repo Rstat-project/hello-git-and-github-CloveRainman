@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: 劉語仁
+author: Liu Yu Ren
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-earth
+taiwan
 
 - 我決定來這裡的動機？
 
-for fun
+for dream
 
 - 我對這門課的期望？
 
-become better
+become smarter
